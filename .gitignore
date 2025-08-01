@@ -1,12 +1,19 @@
-AppData/
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
 *.log
 *.tmp
 *.old
-.DS_Store
-Thumbs.db
+
+# Python cache
 __pycache__/
 *.pyc
-*.log
+
+# Environment and editor settings
 .vscode/
 *.env
-.DS_Store
+
+# Windows-specific folders
+AppData/
