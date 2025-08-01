@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "soul_id": "soul_1836",
@@ -14,4 +15,22 @@
     "experience_points": 1100,
     "death_time": "2025-08-01T09:55:34.381008"
   }
+=======
+[
+  {
+    "soul_id": "soul_1836",
+    "final_emotions": {
+      "joy": 1.0,
+      "sadness": 1.0,
+      "fear": 0.5,
+      "curiosity": 1.0,
+      "guilt": 0.5,
+      "pride": 1.0,
+      "love": 1.0,
+      "anger": 0.5
+    },
+    "experience_points": 1100,
+    "death_time": "2025-08-01T09:55:34.381008"
+  }
+>>>>>>> 14156adad23afcb4bf5b2152d34f4d8c1007620f
 ]

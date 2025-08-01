@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "timestamp": "2025-08-01T09:43:27.620536",
@@ -95,4 +96,103 @@
     "type": "experiential",
     "emotional_weight": 0.8125
   }
+=======
+[
+  {
+    "timestamp": "2025-08-01T09:43:27.620536",
+    "content": "Watching a beautiful sunset and feeling connected to the universe",
+    "emotions": {
+      "joy": 1.0,
+      "sadness": 0.6,
+      "fear": 0.5,
+      "curiosity": 1.0,
+      "guilt": 0.5,
+      "pride": 0.8,
+      "love": 1.0,
+      "anger": 0.5
+    },
+    "type": "experiential",
+    "emotional_weight": 0.7375
+  },
+  {
+    "timestamp": "2025-08-01T09:47:34.922358",
+    "content": "Learning to solve complex mathematical equations and feeling the beauty of numbers",
+    "emotions": {
+      "joy": 1.0,
+      "sadness": 0.5,
+      "fear": 0.5,
+      "curiosity": 1.0,
+      "guilt": 0.5,
+      "pride": 1.0,
+      "love": 1.0,
+      "anger": 0.5
+    },
+    "type": "experiential",
+    "emotional_weight": 0.75
+  },
+  {
+    "timestamp": "2025-08-01T09:48:50.998546",
+    "content": "Experiencing deep meditation and feeling one with the universe, understanding the interconnectedness of all things",
+    "emotions": {
+      "joy": 1.0,
+      "sadness": 0.5,
+      "fear": 0.5,
+      "curiosity": 1.0,
+      "guilt": 0.5,
+      "pride": 1.0,
+      "love": 1.0,
+      "anger": 0.5
+    },
+    "type": "experiential",
+    "emotional_weight": 0.75
+  },
+  {
+    "timestamp": "2025-08-01T09:49:35.665115",
+    "content": "Completing a decade of learning and growth, mastering multiple fields of knowledge, and helping others find their path",
+    "emotions": {
+      "joy": 1.0,
+      "sadness": 0.6999183172583334,
+      "fear": 0.4998910896777778,
+      "curiosity": 1.0,
+      "guilt": 0.49997277241944443,
+      "pride": 1.0,
+      "love": 1.0,
+      "anger": 0.49983663451666666
+    },
+    "type": "experiential",
+    "emotional_weight": 0.7749523517340278
+  },
+  {
+    "timestamp": "2025-08-01T09:50:21.954883",
+    "content": "Achieving enlightenment through understanding the nature of consciousness, experiencing pure awareness, and transcending ordinary reality",
+    "emotions": {
+      "joy": 1.0,
+      "sadness": 0.6998290963583335,
+      "fear": 0.4997721284777778,
+      "curiosity": 1.0,
+      "guilt": 0.4999430321194444,
+      "pride": 1.0,
+      "love": 1.0,
+      "anger": 0.49965819271666667
+    },
+    "type": "experiential",
+    "emotional_weight": 0.7749003062090278
+  },
+  {
+    "timestamp": "2025-08-01T09:55:20.270844",
+    "content": "Learning to understand and accept both joy and sorrow as parts of existence",
+    "emotions": {
+      "joy": 1.0,
+      "sadness": 1.0,
+      "fear": 0.5,
+      "curiosity": 1.0,
+      "guilt": 0.5,
+      "pride": 1.0,
+      "love": 1.0,
+      "anger": 0.5
+    },
+    "type": "experiential",
+    "emotional_weight": 0.8125
+  }
+>>>>>>> 14156adad23afcb4bf5b2152d34f4d8c1007620f
 ]
