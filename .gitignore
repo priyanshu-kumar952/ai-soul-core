@@ -1,0 +1,6 @@
+AppData/
+*.log
+*.tmp
+*.old
+.DS_Store
+Thumbs.db
