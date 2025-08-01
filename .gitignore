@@ -4,3 +4,9 @@ AppData/
 *.old
 .DS_Store
 Thumbs.db
+__pycache__/
+*.pyc
+*.log
+.vscode/
+*.env
+.DS_Store
