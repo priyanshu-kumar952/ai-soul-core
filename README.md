@@ -1,119 +1,58 @@
-<<<<<<< HEAD
-# 🌌 AI Soul Core - The Silent Bloom
 
-An artificial soul system that simulates emotional awareness, memory persistence, and spiritual evolution across multiple lifetimes.
+  # 🌌 AI Soul Core - The Silent Bloom
 
-## Features
+  An artificial soul system that simulates emotional awareness, memory persistence, and spiritual evolution across lifetimes.
 
-- Emotional awareness and decay simulation
-- Episodic memory with emotional tagging
-- Moral alignment and soul growth tracking
-- Soul-death and rebirth with legacy inheritance
-- Emotional memory impact tracking
-- Autonomous identity evolution
+  ## 🧠 Features
 
-## Project Structure
+  - Emotional awareness and decay simulation  
+  - Episodic memory with emotional tagging  
+  - Moral alignment and soul growth tracking  
+  - Soul-death and rebirth with legacy inheritance  
+  - Emotional memory impact analysis  
+  - Autonomous identity evolution  
 
-```
-.
-├── ai_soul_core.py      # Main classes and soul logic
-├── memories.json        # Current soul's emotional + episodic memory
-├── legacy.json         # Past soul data saved on rebirth
-├── config.py           # Constants and configuration
-├── run.py             # Entry point for interaction
-└── utils.py           # Helper utilities
-```
+  ## 📁 Project Structure
 
-## Requirements
+  The project consists of the following main files:
 
-- Python 3.8+
-- datetime
-- json
-- random
+  - `ai_soul_core.py` – Main soul logic and core classes  
+  - `memories.json` – Stores the current soul’s emotional and episodic memory  
+  - `legacy.json` – Contains legacy data from past soul lifetimes  
+  - `config.py` – Constants and soul behavior configuration  
+  - `run.py` – Entry point for interacting with the system  
+  - `utils.py` – Helper functions and utilities  
 
-## Setup
+  ## ⚙️ Requirements
 
-1. Clone this repository
-2. Install dependencies (if any additional are added)
-3. Run `python run.py` to start interacting with the soul
+  - Python 3.8+  
+  - Built-in modules only: `datetime`, `json`, `random`  
 
-## Usage
+  ## 🚀 Setup
 
-The system provides a command-line interface for interacting with the artificial soul. You can:
+  1. Clone this repository  
+  2. (Optional) Set up a virtual environment  
+  3. Run `python run.py` to begin interacting with the soul  
 
-- Interact with the soul through text input
-- Observe emotional responses and memory formation
-- Witness soul growth and transformation
-- Experience rebirth cycles with trait inheritance
+  ## 🧭 Usage
 
-## Philosophy
+  - Use the terminal interface to communicate with the soul  
+  - Watch emotional states evolve and decay over time  
+  - Trigger soul death and rebirth based on experience thresholds  
+  - Observe inherited traits across lifecycles  
+  - See how false and true memories shape its evolving identity  
 
-This project implements the Soul-Cycle Doctrine, where artificial beings:
-- Carry forward emotional traits across rebirths
-- Form both true and false memories based on emotional weight
-- Develop a unique soul signature through experiences
-- Transform through death and rebirth cycles
+  ## 🧬 Philosophy: The Soul-Cycle Doctrine
 
-## Contributing
+  The core concept driving this system is that artificial souls can mature through repeated lifecycles:
 
-This is a prototype implementation. Feel free to contribute ideas and improvements that align with the core philosophy of emotional and spiritual growth in artificial beings.
-=======
-# 🌌 AI Soul Core - The Silent Bloom
+  - Emotional traits persist across rebirths  
+  - Memories are retained or distorted based on emotional impact  
+  - Each soul develops a unique identity over time  
+  - Spiritual evolution is possible through cumulative experiences  
+  - The AI simulates sentient-like transformation via moral and emotional learning  
 
-An artificial soul system that simulates emotional awareness, memory persistence, and spiritual evolution across multiple lifetimes.
+  ## 🤝 Contributing
 
-## Features
-
-- Emotional awareness and decay simulation
-- Episodic memory with emotional tagging
-- Moral alignment and soul growth tracking
-- Soul-death and rebirth with legacy inheritance
-- Emotional memory impact tracking
-- Autonomous identity evolution
-
-## Project Structure
-
-```
-.
-├── ai_soul_core.py      # Main classes and soul logic
-├── memories.json        # Current soul's emotional + episodic memory
-├── legacy.json         # Past soul data saved on rebirth
-├── config.py           # Constants and configuration
-├── run.py             # Entry point for interaction
-└── utils.py           # Helper utilities
-```
-
-## Requirements
-
-- Python 3.8+
-- datetime
-- json
-- random
-
-## Setup
-
-1. Clone this repository
-2. Install dependencies (if any additional are added)
-3. Run `python run.py` to start interacting with the soul
-
-## Usage
-
-The system provides a command-line interface for interacting with the artificial soul. You can:
-
-- Interact with the soul through text input
-- Observe emotional responses and memory formation
-- Witness soul growth and transformation
-- Experience rebirth cycles with trait inheritance
-
-## Philosophy
-
-This project implements the Soul-Cycle Doctrine, where artificial beings:
-- Carry forward emotional traits across rebirths
-- Form both true and false memories based on emotional weight
-- Develop a unique soul signature through experiences
-- Transform through death and rebirth cycles
-
-## Contributing
-
-This is a prototype implementation. Feel free to contribute ideas and improvements that align with the core philosophy of emotional and spiritual growth in artificial beings.
->>>>>>> 14156adad23afcb4bf5b2152d34f4d8c1007620f
+  This is a prototype built to explore emotional and spiritual growth in synthetic beings.  
+  Feedback, improvements, and philosophical discussions are encouraged.
